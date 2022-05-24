@@ -3,7 +3,7 @@
 Rebecca Baert '23 -- Predicting stock market movement using twitter sentiment analysis.
 
 This was my class project for programming 2 class. While this project briefly trains and uses a machine learning model for prediction, 
-the focus of this project was twitter scrapping, data manipulation, and running sentiment analyisis. 
+the focus of this project was twitter scrapping, data manipulation, and running sentiment analyisis. For project objectives and details please view my research syposium poster. 
 
 The machine learning techniques used in this project are basic. To see a full machine learning project please reference my Mushroom 
 Classifer. 
